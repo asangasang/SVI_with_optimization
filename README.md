@@ -1,4 +1,4 @@
-# Volatility Smile Optimization via SVI Model with NLP Algorithms
+# Volatility Smile Optimization via SVI Model
 
 ## 0. Special Thanks
 This study was inspired by research conducted based on **'A New Simple Approach for Constructing Implied Volatility Surfaces'** by Peter Carr and Liuren Wu.
